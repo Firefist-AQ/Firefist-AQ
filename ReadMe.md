@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Image recognition/ Plate number recognition<br>🤝 I’m looking for help with Computer vision <br>🌱 I’m currently studying Machine Learning <br>👯 I’m looking to collaborate
+🔭 I’m currently working on Image recognition/ Lang AI<br>🤝 I’m looking for help with Computer vision <br>🌱 I’m currently studying Machine Learning <br>👯 I’m looking to collaborate
 
 
 ## 🌐 Socials:
